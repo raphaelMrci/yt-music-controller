@@ -142,7 +142,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>BD2F3104-4C61-4DB7-80CB-48D9B6370FF5</string>
+				<string>A54890A5-C239-4B51-A708-C42EC3ABE5EE</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -156,6 +156,31 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>27A81862-60BB-4386-9063-E9D1C7D8ACDF</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>A54890A5-C239-4B51-A708-C42EC3ABE5EE</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>BD2F3104-4C61-4DB7-80CB-48D9B6370FF5</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>68634E3E-6673-462B-A023-4D2E9FCBF38D</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>522E79CA-942F-421C-962F-6AD80B3477F4</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -903,6 +928,38 @@ osascript scripts/$query/previous.applescript</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string>{var:browser}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>1</integer>
+						<key>matchstring</key>
+						<string>Arc</string>
+						<key>outputlabel</key>
+						<string>Arc</string>
+						<key>uid</key>
+						<string>68634E3E-6673-462B-A023-4D2E9FCBF38D</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>Browser not supported</string>
+				<key>hideelse</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>A54890A5-C239-4B51-A708-C42EC3ABE5EE</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>delimiter</key>
 				<string>
 </string>
@@ -925,23 +982,6 @@ osascript scripts/$query/previous.applescript</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>argument</key>
-				<string>{var:browser_name}</string>
-				<key>passthroughargument</key>
-				<false/>
-				<key>variables</key>
-				<dict/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.argument</string>
-			<key>uid</key>
-			<string>ACAE54C0-7ECD-4BE7-954B-1446629318B1</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>delimiter</key>
 				<string> </string>
 				<key>discardemptyarguments</key>
@@ -957,6 +997,23 @@ osascript scripts/$query/previous.applescript</string>
 			<string>alfred.workflow.utility.split</string>
 			<key>uid</key>
 			<string>8F74BED5-B5B7-47EF-8FC7-E1436C138249</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{var:browser_name}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>ACAE54C0-7ECD-4BE7-954B-1446629318B1</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -1078,6 +1135,27 @@ osascript scripts/$query/play_pause.applescript</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>You are currently using {var:browser_name} as browser. YT music controller is not handling it yet. You can configure it manually if needed.</string>
+				<key>title</key>
+				<string>Your browser is not supported yet</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>522E79CA-942F-421C-962F-6AD80B3477F4</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>argumenttype</key>
 				<integer>2</integer>
 				<key>keyword</key>
@@ -1159,7 +1237,7 @@ osascript scripts/$query/play_pause.applescript</string>
 		</dict>
 	</array>
 	<key>readme</key>
-	<string></string>
+	<string>Hello world</string>
 	<key>uidata</key>
 	<dict>
 		<key>03870E0C-A404-46E6-AEBE-880D95013093</key>
@@ -1188,7 +1266,7 @@ osascript scripts/$query/play_pause.applescript</string>
 		<key>0FF5F816-EEE0-4654-95DE-BA7925C97BBE</key>
 		<dict>
 			<key>xpos</key>
-			<real>2205</real>
+			<real>2455</real>
 			<key>ypos</key>
 			<real>365</real>
 		</dict>
@@ -1216,16 +1294,23 @@ osascript scripts/$query/play_pause.applescript</string>
 		<key>2F541AE5-FBA0-46F7-9AD4-74F3522E0836</key>
 		<dict>
 			<key>xpos</key>
-			<real>2205</real>
+			<real>2455</real>
 			<key>ypos</key>
 			<real>640</real>
 		</dict>
 		<key>3EF549CE-A7DC-4D63-89A7-D19E847EF53C</key>
 		<dict>
 			<key>xpos</key>
-			<real>2205</real>
+			<real>2455</real>
 			<key>ypos</key>
 			<real>775</real>
+		</dict>
+		<key>522E79CA-942F-421C-962F-6AD80B3477F4</key>
+		<dict>
+			<key>xpos</key>
+			<real>2140</real>
+			<key>ypos</key>
+			<real>935</real>
 		</dict>
 		<key>794585B3-6621-4534-9229-DFB2F4D30C89</key>
 		<dict>
@@ -1269,12 +1354,19 @@ osascript scripts/$query/play_pause.applescript</string>
 			<key>ypos</key>
 			<real>850</real>
 		</dict>
+		<key>A54890A5-C239-4B51-A708-C42EC3ABE5EE</key>
+		<dict>
+			<key>xpos</key>
+			<real>1780</real>
+			<key>ypos</key>
+			<real>685</real>
+		</dict>
 		<key>A7FC8D77-3889-4AA4-A3B1-9388748C77A7</key>
 		<dict>
 			<key>xpos</key>
-			<real>2070</real>
+			<real>2460</real>
 			<key>ypos</key>
-			<real>955</real>
+			<real>930</real>
 		</dict>
 		<key>ACAE54C0-7ECD-4BE7-954B-1446629318B1</key>
 		<dict>
@@ -1293,7 +1385,7 @@ osascript scripts/$query/play_pause.applescript</string>
 		<key>BD2F3104-4C61-4DB7-80CB-48D9B6370FF5</key>
 		<dict>
 			<key>xpos</key>
-			<real>1845</real>
+			<real>2140</real>
 			<key>ypos</key>
 			<real>595</real>
 		</dict>
@@ -1314,7 +1406,7 @@ osascript scripts/$query/play_pause.applescript</string>
 		<key>C9CA2829-A2E4-439E-8403-4C4484F2BC55</key>
 		<dict>
 			<key>xpos</key>
-			<real>2205</real>
+			<real>2455</real>
 			<key>ypos</key>
 			<real>505</real>
 		</dict>
@@ -1363,7 +1455,7 @@ osascript scripts/$query/play_pause.applescript</string>
 		<key>E6691240-DABD-4909-9B7F-3D3702C81CBF</key>
 		<dict>
 			<key>xpos</key>
-			<real>2205</real>
+			<real>2455</real>
 			<key>ypos</key>
 			<real>225</real>
 		</dict>
@@ -1396,18 +1488,6 @@ osascript scripts/$query/play_pause.applescript</string>
 						<string>Arc</string>
 					</array>
 					<array>
-						<string>Google Chrome</string>
-						<string>Google Chrome</string>
-					</array>
-					<array>
-						<string>Firefox</string>
-						<string>Firefox</string>
-					</array>
-					<array>
-						<string>Safari</string>
-						<string>Safari</string>
-					</array>
-					<array>
 						<string>Undefined</string>
 						<string></string>
 					</array>
@@ -1424,7 +1504,7 @@ osascript scripts/$query/play_pause.applescript</string>
 		</dict>
 	</array>
 	<key>version</key>
-	<string>1.0.0</string>
+	<string>B-0.1.0</string>
 	<key>webaddress</key>
 	<string>https://github.com/raphaelMrci/yt-music-controller</string>
 </dict>
