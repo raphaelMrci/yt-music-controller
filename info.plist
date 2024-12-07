@@ -218,6 +218,42 @@
 			</dict>
 			<dict>
 				<key>destinationuid</key>
+				<string>C9CA2829-A2E4-439E-8403-4C4484F2BC55</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>72CC155C-E19D-4D40-8835-FFF903C8C650</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>2F541AE5-FBA0-46F7-9AD4-74F3522E0836</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>30ABFBB0-3994-4355-90F2-71CEB7A32070</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>3EF549CE-A7DC-4D63-89A7-D19E847EF53C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>9AE0A6D9-82A0-4BD2-9BB4-CE6C9CDEA4C1</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
 				<string>A7FC8D77-3889-4AA4-A3B1-9388748C77A7</string>
 				<key>modifiers</key>
 				<integer>0</integer>
@@ -577,6 +613,31 @@ osascript scripts/$query/liked_random.applescript</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>query=$1
+
+osascript scripts/$query/next.applescript</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>C9CA2829-A2E4-439E-8403-4C4484F2BC55</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>argument</key>
 				<string></string>
 				<key>passthroughargument</key>
@@ -796,6 +857,31 @@ osascript scripts/$query/liked_random.applescript</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>query=$1
+
+osascript scripts/$query/previous.applescript</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>2F541AE5-FBA0-46F7-9AD4-74F3522E0836</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>argumenttype</key>
 				<integer>2</integer>
 				<key>keyword</key>
@@ -895,6 +981,31 @@ osascript scripts/$query/liked_random.applescript</string>
 			<integer>1</integer>
 		</dict>
 		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>query=$1
+
+osascript scripts/$query/play_pause.applescript</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>3EF549CE-A7DC-4D63-89A7-D19E847EF53C</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
 			<key>type</key>
 			<string>alfred.workflow.utility.junction</string>
 			<key>uid</key>
@@ -912,7 +1023,7 @@ osascript scripts/$query/liked_random.applescript</string>
 				<key>subtext</key>
 				<string></string>
 				<key>text</key>
-				<string>Next song</string>
+				<string>Previous song</string>
 				<key>withspace</key>
 				<false/>
 			</dict>
@@ -1102,6 +1213,20 @@ osascript scripts/$query/liked_random.applescript</string>
 			<key>ypos</key>
 			<real>25</real>
 		</dict>
+		<key>2F541AE5-FBA0-46F7-9AD4-74F3522E0836</key>
+		<dict>
+			<key>xpos</key>
+			<real>2205</real>
+			<key>ypos</key>
+			<real>640</real>
+		</dict>
+		<key>3EF549CE-A7DC-4D63-89A7-D19E847EF53C</key>
+		<dict>
+			<key>xpos</key>
+			<real>2205</real>
+			<key>ypos</key>
+			<real>775</real>
+		</dict>
 		<key>794585B3-6621-4534-9229-DFB2F4D30C89</key>
 		<dict>
 			<key>xpos</key>
@@ -1185,6 +1310,13 @@ osascript scripts/$query/liked_random.applescript</string>
 			<real>480</real>
 			<key>ypos</key>
 			<real>405</real>
+		</dict>
+		<key>C9CA2829-A2E4-439E-8403-4C4484F2BC55</key>
+		<dict>
+			<key>xpos</key>
+			<real>2205</real>
+			<key>ypos</key>
+			<real>505</real>
 		</dict>
 		<key>CB6F346A-61AA-4ED9-B35B-2B5806DDB607</key>
 		<dict>
