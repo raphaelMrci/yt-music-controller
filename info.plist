@@ -1237,7 +1237,63 @@ osascript scripts/$query/play_pause.applescript</string>
 		</dict>
 	</array>
 	<key>readme</key>
-	<string>Hello world</string>
+	<string># YT Music Controller
+
+YT Music Controller is an Alfred workflow designed to streamline your interaction with YouTube Music in the Arc browser (with more browser support coming soon). It provides quick access to your liked songs, playback controls, and (soon) custom playlists directly from Alfred.
+
+## Features
+
+- **Playback Controls**:
+  - Play or pause YouTube Music.
+  - Skip to the next or previous song in your playlist.
+
+- **Liked Songs**:
+  - Quickly launch your liked songs playlist.
+  - Shuffle your liked songs with a single command.
+
+- **Custom Playlist Support** *(In Progress)*:
+  - Add and control your custom playlists (feature coming soon).
+
+- **Browser Detection** *(Arc Supported, More Coming)*:
+  - Automatically detects Arc as the default browser.
+  - Support for Chrome, Firefox, and Safari is planned for future updates.
+
+## Commands
+
+- `liked`: Launches your liked songs playlist.
+- `likedr`: Plays your liked songs in shuffle mode.
+- `play`: Toggles play or pause on YouTube Music.
+- `next`: Skips to the next song.
+- `previous`: Plays the previous song.
+- `p1`: *(In Progress)* Will play your first custom playlist.
+- `p1r`: *(In Progress)* Will play your first custom playlist in shuffle mode.
+
+## Requirements
+
+- **macOS**: Required for AppleScript functionality.
+- **Alfred Powerpack**: To enable workflows.
+- **Arc Browser**: Currently the only supported browser.
+
+## Customization
+
+You can configure the browser used by the workflow:
+
+1. Open Alfred preferences.
+2. Edit the workflow's environment variables.
+3. Set the `browser_name` variable to `Arc` (support for other browsers is not available yet).
+
+## Notes
+
+- The workflow uses AppleScript and JavaScript injection for precise control over YouTube Music.
+- Make sure you are logged into YouTube Music in Arc for optimal functionality.
+- Support for Chrome, Firefox, and Safari is coming in future updates.
+- Custom playlist features are currently under development.
+
+## Author
+
+Created by **Raphael Mrci**.
+
+GitHub Repository: [YT Music Controller](https://github.com/raphaelMrci/yt-music-controller)</string>
 	<key>uidata</key>
 	<dict>
 		<key>03870E0C-A404-46E6-AEBE-880D95013093</key>
