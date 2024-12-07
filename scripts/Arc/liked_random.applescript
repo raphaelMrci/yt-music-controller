@@ -1,7 +1,7 @@
 -- Get the current script's directory and construct the relative path to open_arc.applescript
 set currentScriptPath to POSIX path of (path to me)
-set currentScriptDirectory to POSIX path of ((POSIX file currentScriptPath as alias) & "::") -- Extract directory
-set openArcScriptPath to currentScriptDirectory & "open_arc.applescript"
+set currentScriptDirectory to do shell script "dirname " & quoted form of currentScriptPath
+set openArcScriptPath to currentScriptDirectory & "/open_arc.applescript"
 
 log "Calling open_arc.applescript at path: " & openArcScriptPath
 
@@ -52,49 +52,33 @@ tell application "Arc"
         log "New YouTube Music tab opened."
     end if
 
-    -- Ensure the play button is present and interactable
-    log "Waiting for the play button to appear and become interactable..."
+    -- Click the menu and then the shuffle button
+    log "Attempting to click the menu and shuffle button..."
     tell ytMusicTab
-        set timeoutCounter to 0
-        repeat
-            try
-                -- Check for the play button's existence and visibility
-                set playButtonExists to execute javascript "
-                    (function() {
-                        const playButton = document.querySelector('ytmusic-play-button-renderer');
-                        return playButton && window.getComputedStyle(playButton).visibility === 'visible' && playButton.offsetParent !== null;
-                    })();
-                "
-                if playButtonExists as boolean then
-                    log "Play button is ready and interactable."
-                    exit repeat
-                end if
-            on error
-                log "JavaScript execution failed during play button check. Retrying..."
-            end try
-            delay 0.5 -- Short wait for retry loop
-            set timeoutCounter to timeoutCounter + 1
-            log "Play button check: " & (timeoutCounter * 0.5) & " seconds elapsed..."
-            if timeoutCounter > 40 then -- 20 seconds timeout
-                log "Play button did not become available within timeout period."
-                error "Play button did not become available within timeout period."
-            end if
-        end repeat
-
-        -- Click the play button if not already playing
-        log "Attempting to click the play button..."
         execute javascript "
             (function() {
-                const playButton = document.querySelector('ytmusic-play-button-renderer');
-                if (playButton && playButton.getAttribute('state') !== 'playing') {
-                    console.log('Clicking play button to start music...');
-                    playButton.click();
+                console.log('Searching for the menu button...');
+                const menuButton = document.querySelector('ytmusic-menu-renderer tp-yt-paper-icon-button');
+                if (menuButton) {
+                    console.log('Menu button found. Clicking it...');
+                    menuButton.click();
+
+                    setTimeout(() => {
+                        console.log('Searching for the shuffle button...');
+                        const shuffleButton = document.querySelector('a[href=\"watch?playlist=LM\"]');
+                        if (shuffleButton) {
+                            console.log('Shuffle button found. Clicking it...');
+                            shuffleButton.click();
+                        } else {
+                            console.error('Shuffle button not found.');
+                        }
+                    }, 1000); // Wait 1 second for the menu to appear
                 } else {
-                    console.log('Music is already playing or play button is not found.');
+                    console.error('Menu button not found.');
                 }
             })();
         "
-        log "Play button clicked or already playing."
+        log "Menu and shuffle button interaction completed."
     end tell
 
     log "Script execution completed."
