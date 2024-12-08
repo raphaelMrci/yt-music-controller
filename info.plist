@@ -34,11 +34,114 @@
 				<false/>
 			</dict>
 		</array>
+		<key>07381EE3-17A5-4FA8-BCFB-BD4627C842AA</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>D283A2BD-8B53-4A46-AEB4-D74D925FBF66</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>07FFF5D5-4606-4D49-88D1-0A099648FB44</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>32634336-33A2-4A35-B4B6-32321041E21B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>983AFAB1-A5E0-4DA9-AD1A-1437F51458B4</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>A54890A5-C239-4B51-A708-C42EC3ABE5EE</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>0E061AD3-6D2C-4429-903A-30B6989D1A7A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>27A81862-60BB-4386-9063-E9D1C7D8ACDF</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>102FF676-CFF3-420F-A8A4-60AEDAFCF48B</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>27A81862-60BB-4386-9063-E9D1C7D8ACDF</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>14582516-1786-4A2A-90C7-B7690C96143C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>5651FBB5-5F66-4C81-81B9-7C019E25C32F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>150DBD1D-15AB-499D-9397-093FEDAEAA53</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>27A81862-60BB-4386-9063-E9D1C7D8ACDF</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>20CBB180-FC9A-4D22-88BE-8D091E9D0318</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>150DBD1D-15AB-499D-9397-093FEDAEAA53</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>249401C0-D3DD-4E2C-A7FD-9E1E69631F17</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A3FC4693-DD9C-4478-8B03-6C556ECE7D6B</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -83,6 +186,58 @@
 				<false/>
 			</dict>
 		</array>
+		<key>2B5FFE42-40BA-41F2-B8E6-BE997444AE8A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>2E2EBA9B-91CC-4C19-A379-A58F00F08403</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>2C1E8369-D968-4760-9A3D-BE8AF9B97FF0</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>5651FBB5-5F66-4C81-81B9-7C019E25C32F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>2E2EBA9B-91CC-4C19-A379-A58F00F08403</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>07FFF5D5-4606-4D49-88D1-0A099648FB44</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>382A0899-2578-4042-A512-7F34A9132A8C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E1C9C10A-D5BF-409F-89C2-FA2AAD8A751C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>3A9987AF-3151-4702-A476-94B5FE9C0D1A</key>
 		<array>
 			<dict>
@@ -96,11 +251,117 @@
 				<false/>
 			</dict>
 		</array>
-		<key>6F3933C9-FBC1-41C2-8F8B-CF2DB2C595A0</key>
+		<key>42285FC2-7E13-4D13-8922-52F7C6B2212A</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>6F01056A-6786-4DC6-B3BE-4BADD632D701</string>
+				<string>CAB45786-F0CE-4989-8906-31F80D129A2D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>440BC51F-565B-4F39-AC15-91616BD02697</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E1C9C10A-D5BF-409F-89C2-FA2AAD8A751C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>4FA1B145-7D6A-46BF-9441-EC0927D77755</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>D283A2BD-8B53-4A46-AEB4-D74D925FBF66</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>508AF252-977D-42A0-B99F-7AA88EAD9118</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E1C9C10A-D5BF-409F-89C2-FA2AAD8A751C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>5651FBB5-5F66-4C81-81B9-7C019E25C32F</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>27A81862-60BB-4386-9063-E9D1C7D8ACDF</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>689C2C3F-19BF-49E9-BAA0-B70FB454BB5B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>CB6F346A-61AA-4ED9-B35B-2B5806DDB607</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>6B5F9399-7839-4B62-9D83-6615925A91BB</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A0FF6CAD-FAF7-4382-BA07-73A8C827BB65</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>6F3933C9-FBC1-41C2-8F8B-CF2DB2C595A0</key>
+		<array/>
+		<key>6F990C7D-F1DC-46DC-9296-8334D8D68E99</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>0E061AD3-6D2C-4429-903A-30B6989D1A7A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>6FCAF8CD-59C3-4B68-9DC5-86538E43ADED</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>102FF676-CFF3-420F-A8A4-60AEDAFCF48B</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -150,7 +411,84 @@
 				<false/>
 			</dict>
 		</array>
+		<key>7E8D939E-3178-4C46-9F23-AEB4819B9870</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>045796A9-FF57-4625-A621-E06C70673CD3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>82A7D6EC-30F8-4C1C-B6A9-F9057275875A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>161D5EFC-7CBF-46BC-AEE2-38EF7B581225</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>7C95C9A8-4C30-424B-893E-60996AAAAF82</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>E4DFD31B-77A0-4623-AE8C-66AC863C90DD</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>86DD54F8-A237-41B7-A138-BAE04FD44837</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>794585B3-6621-4534-9229-DFB2F4D30C89</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>8855FA3B-197C-4FB2-A78B-73C7FA1EE65D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>6B5F9399-7839-4B62-9D83-6615925A91BB</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>8DCDB2D4-4E5D-40C2-8739-86689D0383DF</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>794585B3-6621-4534-9229-DFB2F4D30C89</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>8E50978C-BE95-484A-B0AF-B1323B92253E</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
@@ -176,11 +514,100 @@
 				<false/>
 			</dict>
 		</array>
+		<key>90396D0D-022B-4A09-AEE2-DC04AD80F30E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>0E061AD3-6D2C-4429-903A-30B6989D1A7A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>91C4EC59-0A49-4878-B18D-A105DC6E0960</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A3FC4693-DD9C-4478-8B03-6C556ECE7D6B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>93682B77-E352-49AB-98B3-09F4A5DCF617</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>C2EF9A29-2693-4804-B89C-D7815906FD04</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>95AD198C-9640-4DF5-BAF9-9F28958999B5</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>CB6F346A-61AA-4ED9-B35B-2B5806DDB607</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>A0FF6CAD-FAF7-4382-BA07-73A8C827BB65</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>42285FC2-7E13-4D13-8922-52F7C6B2212A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>8109A7FD-9B52-4E23-ABD5-EE892C4DE9E1</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>42285FC2-7E13-4D13-8922-52F7C6B2212A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>8599C791-05A2-466D-89E7-F00DCAD53E02</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>6815A6B4-0807-43A7-8DB7-3AA8C7C7AC0E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>A3DC4537-1646-43CB-8427-746FC00E1010</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>A54890A5-C239-4B51-A708-C42EC3ABE5EE</string>
+				<string>2B5FFE42-40BA-41F2-B8E6-BE997444AE8A</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -317,7 +744,7 @@
 			</dict>
 			<dict>
 				<key>destinationuid</key>
-				<string>A7FC8D77-3889-4AA4-A3B1-9388748C77A7</string>
+				<string>8855FA3B-197C-4FB2-A78B-73C7FA1EE65D</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -339,11 +766,63 @@
 				<false/>
 			</dict>
 		</array>
+		<key>C066AF5A-F579-41DE-8AED-EEA5E7744FBC</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>102FF676-CFF3-420F-A8A4-60AEDAFCF48B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>C2B78D89-096C-45AA-ACEC-84010019B9E9</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>0E061AD3-6D2C-4429-903A-30B6989D1A7A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>C2EF9A29-2693-4804-B89C-D7815906FD04</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>27A81862-60BB-4386-9063-E9D1C7D8ACDF</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>C525EF91-61B3-4406-9823-5662466364F6</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>5651FBB5-5F66-4C81-81B9-7C019E25C32F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>CAB45786-F0CE-4989-8906-31F80D129A2D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>82A7D6EC-30F8-4C1C-B6A9-F9057275875A</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -417,6 +896,32 @@
 				<false/>
 			</dict>
 		</array>
+		<key>DB23CE6D-4E46-4EB6-8405-0294A888597E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>150DBD1D-15AB-499D-9397-093FEDAEAA53</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>E1C9C10A-D5BF-409F-89C2-FA2AAD8A751C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>27A81862-60BB-4386-9063-E9D1C7D8ACDF</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>E3183FDF-5EF3-4323-8C6C-2F6C4E4E96F2</key>
 		<array>
 			<dict>
@@ -426,6 +931,33 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>E4DFD31B-77A0-4623-AE8C-66AC863C90DD</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>FBBC85D3-95DA-48F4-8424-F3FC924DB657</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>8109A7FD-9B52-4E23-ABD5-EE892C4DE9E1</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>24DD71BF-812F-4F36-A0BE-7192B56DB39E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>8599C791-05A2-466D-89E7-F00DCAD53E02</string>
 				<key>vitoclose</key>
 				<false/>
 			</dict>
@@ -468,6 +1000,34 @@
 				<false/>
 			</dict>
 		</array>
+		<key>F88B85DC-C29B-4EE8-9171-C4F4F4DFD1D2</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>045796A9-FF57-4625-A621-E06C70673CD3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>FBBC85D3-95DA-48F4-8424-F3FC924DB657</key>
+		<array/>
+		<key>FC59A4C1-98F2-43A2-83FB-3DA4C589876C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>150DBD1D-15AB-499D-9397-093FEDAEAA53</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>liked</key>
 		<array>
 			<dict>
@@ -498,7 +1058,7 @@
 				<key>argumenttype</key>
 				<integer>2</integer>
 				<key>keyword</key>
-				<string>likedr</string>
+				<string>ym likedr</string>
 				<key>subtext</key>
 				<string></string>
 				<key>text</key>
@@ -510,6 +1070,58 @@
 			<string>alfred.workflow.input.keyword</string>
 			<key>uid</key>
 			<string>2A596346-94F5-4E2D-B12D-A6780465CF8B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>0</integer>
+				<key>hotmod</key>
+				<integer>0</integer>
+				<key>hotstring</key>
+				<string></string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>C066AF5A-F579-41DE-8AED-EEA5E7744FBC</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>triggerid</key>
+				<string>Shuffle liked songs</string>
+				<key>triggername</key>
+				<string>Like songs - shuffled</string>
+				<key>workflowonly</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.remote</string>
+			<key>uid</key>
+			<string>6FCAF8CD-59C3-4B68-9DC5-86538E43ADED</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -539,7 +1151,7 @@
 				<key>argumenttype</key>
 				<integer>2</integer>
 				<key>keyword</key>
-				<string>liked</string>
+				<string>ym liked</string>
 				<key>subtext</key>
 				<string></string>
 				<key>text</key>
@@ -553,6 +1165,58 @@
 			<string>liked</string>
 			<key>version</key>
 			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>triggerid</key>
+				<string>Liked songs</string>
+				<key>triggername</key>
+				<string>Liked songs</string>
+				<key>workflowonly</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.remote</string>
+			<key>uid</key>
+			<string>689C2C3F-19BF-49E9-BAA0-B70FB454BB5B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>0</integer>
+				<key>hotmod</key>
+				<integer>0</integer>
+				<key>hotstring</key>
+				<string></string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>95AD198C-9640-4DF5-BAF9-9F28958999B5</string>
+			<key>version</key>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -602,27 +1266,6 @@ osascript scripts/$query/liked.applescript</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>argumenttype</key>
-				<integer>2</integer>
-				<key>keyword</key>
-				<string>play</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Play/pause YT music</string>
-				<key>withspace</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>D3F405B2-4E23-408A-8960-9C21FE71A38A</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>concurrently</key>
 				<false/>
 				<key>escaping</key>
@@ -648,6 +1291,27 @@ osascript scripts/$query/liked_random.applescript</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>ym play</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Play/pause YT music</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>D3F405B2-4E23-408A-8960-9C21FE71A38A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>argument</key>
 				<string></string>
 				<key>argumenttype</key>
@@ -665,6 +1329,37 @@ osascript scripts/$query/liked_random.applescript</string>
 			<string>CAE1F8A0-0E39-4E03-B185-10FAE3270EF3</string>
 			<key>version</key>
 			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>0</integer>
+				<key>hotmod</key>
+				<integer>0</integer>
+				<key>hotstring</key>
+				<string></string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>93682B77-E352-49AB-98B3-09F4A5DCF617</string>
+			<key>version</key>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -692,27 +1387,6 @@ osascript scripts/$query/liked_random.applescript</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>lastpathcomponent</key>
-				<false/>
-				<key>onlyshowifquerypopulated</key>
-				<false/>
-				<key>removeextension</key>
-				<false/>
-				<key>text</key>
-				<string></string>
-				<key>title</key>
-				<string>{query}</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.notification</string>
-			<key>uid</key>
-			<string>6F01056A-6786-4DC6-B3BE-4BADD632D701</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>argument</key>
 				<string></string>
 				<key>passthroughargument</key>
@@ -727,6 +1401,23 @@ osascript scripts/$query/liked_random.applescript</string>
 			<string>alfred.workflow.utility.argument</string>
 			<key>uid</key>
 			<string>C2EF9A29-2693-4804-B89C-D7815906FD04</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{var:update}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>3A9987AF-3151-4702-A476-94B5FE9C0D1A</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -765,17 +1456,42 @@ osascript scripts/$query/liked_random.applescript</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>argument</key>
-				<string>{var:update}</string>
-				<key>passthroughargument</key>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>ym pause</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Play/pause YT music</string>
+				<key>withspace</key>
 				<false/>
-				<key>variables</key>
-				<dict/>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.utility.argument</string>
+			<string>alfred.workflow.input.keyword</string>
 			<key>uid</key>
-			<string>3A9987AF-3151-4702-A476-94B5FE9C0D1A</string>
+			<string>7B4B6DBA-1315-4B4A-A220-1A1C31F77454</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>We were not able to find your browser, please specify it manually in the workflow configuration.</string>
+				<key>title</key>
+				<string>Error: YT Music controller</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>32634336-33A2-4A35-B4B6-32321041E21B</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -803,27 +1519,6 @@ osascript scripts/$query/next.applescript</string>
 			<string>C9CA2829-A2E4-439E-8403-4C4484F2BC55</string>
 			<key>version</key>
 			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>2</integer>
-				<key>keyword</key>
-				<string>pause</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Play/pause YT music</string>
-				<key>withspace</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>7B4B6DBA-1315-4B4A-A220-1A1C31F77454</string>
-			<key>version</key>
-			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -923,34 +1618,6 @@ osascript scripts/$query/next.applescript</string>
 						<key>uid</key>
 						<string>9AE0A6D9-82A0-4BD2-9BB4-CE6C9CDEA4C1</string>
 					</dict>
-					<dict>
-						<key>inputstring</key>
-						<string>{var:task}</string>
-						<key>matchcasesensitive</key>
-						<false/>
-						<key>matchmode</key>
-						<integer>0</integer>
-						<key>matchstring</key>
-						<string>p1</string>
-						<key>outputlabel</key>
-						<string>Playlist 1</string>
-						<key>uid</key>
-						<string>38E1785D-450B-48CA-8A92-5FB228A64BD3</string>
-					</dict>
-					<dict>
-						<key>inputstring</key>
-						<string>{var:task}</string>
-						<key>matchcasesensitive</key>
-						<false/>
-						<key>matchmode</key>
-						<integer>0</integer>
-						<key>matchstring</key>
-						<string>p1r</string>
-						<key>outputlabel</key>
-						<string>Playlist 1 random</string>
-						<key>uid</key>
-						<string>A012E656-1E46-4998-BCF2-D603C274308D</string>
-					</dict>
 				</array>
 				<key>elselabel</key>
 				<string>else</string>
@@ -981,14 +1648,6 @@ osascript scripts/$query/next.applescript</string>
 			<string>alfred.workflow.utility.argument</string>
 			<key>uid</key>
 			<string>D03B2776-A89C-4206-8480-CB22709C2EB3</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.junction</string>
-			<key>uid</key>
-			<string>27A81862-60BB-4386-9063-E9D1C7D8ACDF</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -1025,6 +1684,14 @@ osascript scripts/$query/next.applescript</string>
 			<integer>1</integer>
 		</dict>
 		<dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.junction</string>
+			<key>uid</key>
+			<string>27A81862-60BB-4386-9063-E9D1C7D8ACDF</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
 			<key>config</key>
 			<dict>
 				<key>concurrently</key>
@@ -1056,28 +1723,28 @@ osascript scripts/$query/previous.applescript</string>
 				<array>
 					<dict>
 						<key>inputstring</key>
-						<string>{var:browser}</string>
+						<string>{query}</string>
 						<key>matchcasesensitive</key>
 						<false/>
 						<key>matchmode</key>
-						<integer>1</integer>
+						<integer>0</integer>
 						<key>matchstring</key>
-						<string>Arc</string>
+						<string>err</string>
 						<key>outputlabel</key>
-						<string>Arc</string>
+						<string>Browser not found</string>
 						<key>uid</key>
-						<string>68634E3E-6673-462B-A023-4D2E9FCBF38D</string>
+						<string>983AFAB1-A5E0-4DA9-AD1A-1437F51458B4</string>
 					</dict>
 				</array>
 				<key>elselabel</key>
-				<string>Browser not supported</string>
+				<string>else</string>
 				<key>hideelse</key>
 				<false/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.utility.conditional</string>
 			<key>uid</key>
-			<string>A54890A5-C239-4B51-A708-C42EC3ABE5EE</string>
+			<string>07FFF5D5-4606-4D49-88D1-0A099648FB44</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -1087,7 +1754,7 @@ osascript scripts/$query/previous.applescript</string>
 				<key>argumenttype</key>
 				<integer>2</integer>
 				<key>keyword</key>
-				<string>next</string>
+				<string>ym next</string>
 				<key>subtext</key>
 				<string></string>
 				<key>text</key>
@@ -1105,22 +1772,69 @@ osascript scripts/$query/previous.applescript</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>delimiter</key>
-				<string>
-</string>
-				<key>discardemptyarguments</key>
+				<key>argument</key>
+				<string></string>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>triggerid</key>
+				<string>next</string>
+				<key>triggername</key>
+				<string>Next</string>
+				<key>workflowonly</key>
 				<false/>
-				<key>outputas</key>
-				<integer>1</integer>
-				<key>trimarguments</key>
-				<true/>
-				<key>variableprefix</key>
-				<string>split</string>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.utility.split</string>
+			<string>alfred.workflow.trigger.remote</string>
 			<key>uid</key>
-			<string>A3DC4537-1646-43CB-8427-746FC00E1010</string>
+			<string>8E50978C-BE95-484A-B0AF-B1323B92253E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>0</integer>
+				<key>hotmod</key>
+				<integer>0</integer>
+				<key>hotstring</key>
+				<string></string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>86DD54F8-A237-41B7-A138-BAE04FD44837</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{var:browser_name}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>ACAE54C0-7ECD-4BE7-954B-1446629318B1</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -1130,7 +1844,7 @@ osascript scripts/$query/previous.applescript</string>
 				<key>delimiter</key>
 				<string> </string>
 				<key>discardemptyarguments</key>
-				<false/>
+				<true/>
 				<key>outputas</key>
 				<integer>1</integer>
 				<key>trimarguments</key>
@@ -1149,16 +1863,86 @@ osascript scripts/$query/previous.applescript</string>
 			<key>config</key>
 			<dict>
 				<key>argument</key>
-				<string>{var:browser_name}</string>
+				<string>{query}</string>
 				<key>passthroughargument</key>
 				<false/>
 				<key>variables</key>
-				<dict/>
+				<dict>
+					<key>browser_name</key>
+					<string>{query}</string>
+				</dict>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.utility.argument</string>
 			<key>uid</key>
-			<string>ACAE54C0-7ECD-4BE7-954B-1446629318B1</string>
+			<string>2E2EBA9B-91CC-4C19-A379-A58F00F08403</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>delimiter</key>
+				<string>
+</string>
+				<key>discardemptyarguments</key>
+				<true/>
+				<key>outputas</key>
+				<integer>1</integer>
+				<key>trimarguments</key>
+				<true/>
+				<key>variableprefix</key>
+				<string>split</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.split</string>
+			<key>uid</key>
+			<string>A3DC4537-1646-43CB-8427-746FC00E1010</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>delimiter</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.joinargs</string>
+			<key>uid</key>
+			<string>2B5FFE42-40BA-41F2-B8E6-BE997444AE8A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string>{query}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>Arc</string>
+						<key>outputlabel</key>
+						<string>Arc</string>
+						<key>uid</key>
+						<string>68634E3E-6673-462B-A023-4D2E9FCBF38D</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>Browser not supported</string>
+				<key>hideelse</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>A54890A5-C239-4B51-A708-C42EC3ABE5EE</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -1218,10 +2002,58 @@ osascript scripts/$query/play_pause.applescript</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>No URL configuration found for Playlist N°1</string>
+				<key>title</key>
+				<string>YT Music Playlist N°1</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>161D5EFC-7CBF-46BC-AEE2-38EF7B581225</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>URL=$1
+
+MY_PATH="scripts/${browser_name}/custom_playlist.applescript"
+
+osascript $MY_PATH $URL</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>FBBC85D3-95DA-48F4-8424-F3FC924DB657</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>argumenttype</key>
 				<integer>2</integer>
 				<key>keyword</key>
-				<string>previous</string>
+				<string>ym previous</string>
 				<key>subtext</key>
 				<string></string>
 				<key>text</key>
@@ -1233,6 +2065,58 @@ osascript scripts/$query/play_pause.applescript</string>
 			<string>alfred.workflow.input.keyword</string>
 			<key>uid</key>
 			<string>E5168DB1-CF0D-4E73-B54E-A05D2BF5AEBD</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>0</integer>
+				<key>hotmod</key>
+				<integer>0</integer>
+				<key>hotstring</key>
+				<string></string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>249401C0-D3DD-4E2C-A7FD-9E1E69631F17</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>triggerid</key>
+				<string>Previous</string>
+				<key>triggername</key>
+				<string>Previous</string>
+				<key>workflowonly</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.remote</string>
+			<key>uid</key>
+			<string>91C4EC59-0A49-4878-B18D-A105DC6E0960</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -1266,27 +2150,6 @@ osascript scripts/$query/play_pause.applescript</string>
 				<key>removeextension</key>
 				<false/>
 				<key>text</key>
-				<string></string>
-				<key>title</key>
-				<string>task not found...</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.notification</string>
-			<key>uid</key>
-			<string>A7FC8D77-3889-4AA4-A3B1-9388748C77A7</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>lastpathcomponent</key>
-				<false/>
-				<key>onlyshowifquerypopulated</key>
-				<false/>
-				<key>removeextension</key>
-				<false/>
-				<key>text</key>
 				<string>You are currently using {var:browser_name} as browser. YT music controller is not handling it yet. You can configure it manually if needed.</string>
 				<key>title</key>
 				<string>Your browser is not supported yet</string>
@@ -1301,10 +2164,280 @@ osascript scripts/$query/play_pause.applescript</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string># Get the query input
+query="{query}"
+
+# Construct the dynamic variable name
+path="urlp_$query"
+
+# Dereference the dynamic variable name
+value=$(eval echo \${$path})
+
+# Output the result
+echo -n "$value"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>CAB45786-F0CE-4989-8906-31F80D129A2D</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string>{var:split1}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>p</string>
+						<key>outputlabel</key>
+						<string>Play Playlist</string>
+						<key>uid</key>
+						<string>8109A7FD-9B52-4E23-ABD5-EE892C4DE9E1</string>
+					</dict>
+					<dict>
+						<key>inputstring</key>
+						<string>{var:split1}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>pr</string>
+						<key>outputlabel</key>
+						<string>Shuffle Playlist</string>
+						<key>uid</key>
+						<string>8599C791-05A2-466D-89E7-F00DCAD53E02</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>else</string>
+				<key>hideelse</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>A0FF6CAD-FAF7-4382-BA07-73A8C827BB65</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string>{query}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string></string>
+						<key>outputlabel</key>
+						<string>No URL</string>
+						<key>uid</key>
+						<string>7C95C9A8-4C30-424B-893E-60996AAAAF82</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>Perform task</string>
+				<key>hideelse</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>82A7D6EC-30F8-4C1C-B6A9-F9057275875A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>delimiter</key>
+				<string>_</string>
+				<key>discardemptyarguments</key>
+				<true/>
+				<key>outputas</key>
+				<integer>0</integer>
+				<key>trimarguments</key>
+				<true/>
+				<key>variableprefix</key>
+				<string>split</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.split</string>
+			<key>uid</key>
+			<string>6B5F9399-7839-4B62-9D83-6615925A91BB</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{var:task}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>8855FA3B-197C-4FB2-A78B-73C7FA1EE65D</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{var:split2}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>42285FC2-7E13-4D13-8922-52F7C6B2212A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>URL=$1
+
+MY_PATH="scripts/${browser_name}/custom_playlist_shuffle.applescript"
+
+osascript $MY_PATH $URL</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>24DD71BF-812F-4F36-A0BE-7192B56DB39E</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string>{var:split1}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>p</string>
+						<key>outputlabel</key>
+						<string>Play Playlist</string>
+						<key>uid</key>
+						<string>8109A7FD-9B52-4E23-ABD5-EE892C4DE9E1</string>
+					</dict>
+					<dict>
+						<key>inputstring</key>
+						<string>{var:split1}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>pr</string>
+						<key>outputlabel</key>
+						<string>Shuffle Playlist</string>
+						<key>uid</key>
+						<string>8599C791-05A2-466D-89E7-F00DCAD53E02</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>else</string>
+				<key>hideelse</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>E4DFD31B-77A0-4623-AE8C-66AC863C90DD</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>0</integer>
+				<key>hotmod</key>
+				<integer>0</integer>
+				<key>hotstring</key>
+				<string></string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>F88B85DC-C29B-4EE8-9171-C4F4F4DFD1D2</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>argumenttype</key>
 				<integer>2</integer>
 				<key>keyword</key>
-				<string>p1</string>
+				<string>ym p1</string>
 				<key>subtext</key>
 				<string></string>
 				<key>text</key>
@@ -1324,12 +2457,33 @@ osascript scripts/$query/play_pause.applescript</string>
 			<dict>
 				<key>argument</key>
 				<string></string>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>triggerid</key>
+				<string>Playlist 1</string>
+				<key>triggername</key>
+				<string>Playlist 1</string>
+				<key>workflowonly</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.remote</string>
+			<key>uid</key>
+			<string>7E8D939E-3178-4C46-9F23-AEB4819B9870</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
 				<key>passthroughargument</key>
 				<false/>
 				<key>variables</key>
 				<dict>
 					<key>task</key>
-					<string>p1</string>
+					<string>p_1</string>
 				</dict>
 			</dict>
 			<key>type</key>
@@ -1342,14 +2496,66 @@ osascript scripts/$query/play_pause.applescript</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string></string>
+				<key>title</key>
+				<string>task not found...</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>6815A6B4-0807-43A7-8DB7-3AA8C7C7AC0E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>0</integer>
+				<key>hotmod</key>
+				<integer>0</integer>
+				<key>hotstring</key>
+				<string></string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>07381EE3-17A5-4FA8-BCFB-BD4627C842AA</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>argumenttype</key>
 				<integer>2</integer>
 				<key>keyword</key>
-				<string>p1r</string>
+				<string>ym p1r</string>
 				<key>subtext</key>
 				<string></string>
 				<key>text</key>
-				<string>Play my playlist n°1</string>
+				<string>Play my playlist n°1 - Shuffle</string>
 				<key>withspace</key>
 				<false/>
 			</dict>
@@ -1364,13 +2570,34 @@ osascript scripts/$query/play_pause.applescript</string>
 			<key>config</key>
 			<dict>
 				<key>argument</key>
-				<string>likedr</string>
+				<string></string>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>triggerid</key>
+				<string>Playlist 1 shuffled</string>
+				<key>triggername</key>
+				<string>Playlist 1 - shuffle</string>
+				<key>workflowonly</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.remote</string>
+			<key>uid</key>
+			<string>4FA1B145-7D6A-46BF-9441-EC0927D77755</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
 				<key>passthroughargument</key>
 				<false/>
 				<key>variables</key>
 				<dict>
 					<key>task</key>
-					<string>p1r</string>
+					<string>pr_1</string>
 				</dict>
 			</dict>
 			<key>type</key>
@@ -1380,11 +2607,383 @@ osascript scripts/$query/play_pause.applescript</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>ym p2</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Play my playlist n°2</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>6F990C7D-F1DC-46DC-9296-8334D8D68E99</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>0</integer>
+				<key>hotmod</key>
+				<integer>0</integer>
+				<key>hotstring</key>
+				<string></string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>C2B78D89-096C-45AA-ACEC-84010019B9E9</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>triggerid</key>
+				<string>Playlist 2</string>
+				<key>triggername</key>
+				<string>Playlist 2</string>
+				<key>workflowonly</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.remote</string>
+			<key>uid</key>
+			<string>90396D0D-022B-4A09-AEE2-DC04AD80F30E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>task</key>
+					<string>p_2</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>0E061AD3-6D2C-4429-903A-30B6989D1A7A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>0</integer>
+				<key>hotmod</key>
+				<integer>0</integer>
+				<key>hotstring</key>
+				<string></string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>2C1E8369-D968-4760-9A3D-BE8AF9B97FF0</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>triggerid</key>
+				<string>Playlist 2 shuffled</string>
+				<key>triggername</key>
+				<string>Playlist 2 - shuffle</string>
+				<key>workflowonly</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.remote</string>
+			<key>uid</key>
+			<string>C525EF91-61B3-4406-9823-5662466364F6</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>ym p2r</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Play my playlist n°2 - Shuffle</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>14582516-1786-4A2A-90C7-B7690C96143C</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>task</key>
+					<string>pr_2</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>5651FBB5-5F66-4C81-81B9-7C019E25C32F</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>ym p3</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Play my playlist n°3</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>508AF252-977D-42A0-B99F-7AA88EAD9118</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>0</integer>
+				<key>hotmod</key>
+				<integer>0</integer>
+				<key>hotstring</key>
+				<string></string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>382A0899-2578-4042-A512-7F34A9132A8C</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>triggerid</key>
+				<string>Playlist 3</string>
+				<key>triggername</key>
+				<string>Playlist 3</string>
+				<key>workflowonly</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.remote</string>
+			<key>uid</key>
+			<string>440BC51F-565B-4F39-AC15-91616BD02697</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>task</key>
+					<string>p_3</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>E1C9C10A-D5BF-409F-89C2-FA2AAD8A751C</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>0</integer>
+				<key>hotmod</key>
+				<integer>0</integer>
+				<key>hotstring</key>
+				<string></string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>20CBB180-FC9A-4D22-88BE-8D091E9D0318</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>triggerid</key>
+				<string>Playlist 3 shuffled</string>
+				<key>triggername</key>
+				<string>Playlist 3 - shuffle</string>
+				<key>workflowonly</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.remote</string>
+			<key>uid</key>
+			<string>FC59A4C1-98F2-43A2-83FB-3DA4C589876C</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>ym p3r</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Play my playlist n°3 - Shuffle</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>DB23CE6D-4E46-4EB6-8405-0294A888597E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>task</key>
+					<string>pr_3</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>150DBD1D-15AB-499D-9397-093FEDAEAA53</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
 	</array>
 	<key>readme</key>
 	<string># YT Music Controller
 
-YT Music Controller is an Alfred workflow designed to streamline your interaction with YouTube Music in the Arc browser (with more browser support coming soon). It provides quick access to your liked songs, playback controls, and (soon) custom playlists directly from Alfred.
+YT Music Controller is an Alfred workflow designed to streamline your interaction with YouTube Music in the Arc browser. It provides quick access to your liked songs, playback controls, custom playlists, and an optional auto-updater directly from Alfred. Alfred Remote support has also been added for even more convenience. Support for additional browsers is planned for future updates.
 
 ## Features
 
@@ -1396,22 +2995,36 @@ YT Music Controller is an Alfred workflow designed to streamline your interactio
   - Quickly launch your liked songs playlist.
   - Shuffle your liked songs with a single command.
 
-- **Custom Playlist Support** *(In Progress)*:
-  - Add and control your custom playlists (feature coming soon).
+- **Custom Playlist Support**:
+  - Launch and control up to **3 different custom playlists**.
+  - Shuffle mode is available for each custom playlist.
 
-- **Browser Detection** *(Arc Supported, More Coming)*:
+- **Auto-Updater** *(Configurable)*:
+  - Automatically checks for updates and installs them.
+  - Can be enabled or disabled in the workflow configuration.
+
+- **Browser Detection** *(Arc Supported)*:
   - Automatically detects Arc as the default browser.
-  - Support for Chrome, Firefox, and Safari is planned for future updates.
+  - Support for Chrome, Firefox, Brave and Safari is planned for future updates.
+
+- **Alfred Remote Support**:
+  - Control your YouTube Music playback directly from Alfred Remote.
 
 ## Commands
 
-- `liked`: Launches your liked songs playlist.
-- `likedr`: Plays your liked songs in shuffle mode.
-- `play`: Toggles play or pause on YouTube Music.
-- `next`: Skips to the next song.
-- `previous`: Plays the previous song.
-- `p1`: *(In Progress)* Will play your first custom playlist.
-- `p1r`: *(In Progress)* Will play your first custom playlist in shuffle mode.
+All commands are prefixed with `ym`. For example, use `ym liked` to launch your liked songs playlist.
+
+- `ym liked`: Launches your liked songs playlist.
+- `ym likedr`: Plays your liked songs in shuffle mode.
+- `ym play`: Toggles play or pause on YouTube Music.
+- `ym next`: Skips to the next song.
+- `ym previous`: Plays the previous song.
+- `ym p1`: Plays your first custom playlist.
+- `ym p1r`: Plays your first custom playlist in shuffle mode.
+- `ym p2`: Plays your second custom playlist.
+- `ym p2r`: Plays your second custom playlist in shuffle mode.
+- `ym p3`: Plays your third custom playlist.
+- `ym p3r`: Plays your third custom playlist in shuffle mode.
 
 ## Requirements
 
@@ -1421,18 +3034,22 @@ YT Music Controller is an Alfred workflow designed to streamline your interactio
 
 ## Customization
 
-You can configure the browser used by the workflow:
+### Configure Browser
 
 1. Open Alfred preferences.
 2. Edit the workflow's environment variables.
-3. Set the `browser_name` variable to `Arc` (support for other browsers is not available yet).
+3. Specify the `Browser` variable to the one you want to use instead of your default browser. The list contains all the supported browsers.
+
+### Enable or Disable Auto-Updater
+
+1. Open the workflow's configuration
+2. Check/Uncheck `Stay up-to-date`
 
 ## Notes
 
 - The workflow uses AppleScript and JavaScript injection for precise control over YouTube Music.
 - Make sure you are logged into YouTube Music in Arc for optimal functionality.
-- Support for Chrome, Firefox, and Safari is coming in future updates.
-- Custom playlist features are currently under development.
+- Support for Chrome, Firefox, and Safari is planned for future updates.
 
 ## Author
 
@@ -1448,7 +3065,7 @@ GitHub Repository: [YT Music Controller](https://github.com/raphaelMrci/yt-music
 			<key>xpos</key>
 			<real>1605</real>
 			<key>ypos</key>
-			<real>585</real>
+			<real>570</real>
 		</dict>
 		<key>045796A9-FF57-4625-A621-E06C70673CD3</key>
 		<dict>
@@ -1457,10 +3074,37 @@ GitHub Repository: [YT Music Controller](https://github.com/raphaelMrci/yt-music
 			<key>ypos</key>
 			<real>1060</real>
 		</dict>
-		<key>0FF5F816-EEE0-4654-95DE-BA7925C97BBE</key>
+		<key>07381EE3-17A5-4FA8-BCFB-BD4627C842AA</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>12</integer>
+			<key>xpos</key>
+			<real>45</real>
+			<key>ypos</key>
+			<real>1175</real>
+		</dict>
+		<key>07FFF5D5-4606-4D49-88D1-0A099648FB44</key>
 		<dict>
 			<key>xpos</key>
-			<real>2880</real>
+			<real>2265</real>
+			<key>ypos</key>
+			<real>680</real>
+		</dict>
+		<key>0E061AD3-6D2C-4429-903A-30B6989D1A7A</key>
+		<dict>
+			<key>xpos</key>
+			<real>490</real>
+			<key>ypos</key>
+			<real>1410</real>
+		</dict>
+		<key>0FF5F816-EEE0-4654-95DE-BA7925C97BBE</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>4</integer>
+			<key>note</key>
+			<string>Play liked playlist - shuffled</string>
+			<key>xpos</key>
+			<real>3080</real>
 			<key>ypos</key>
 			<real>360</real>
 		</dict>
@@ -1470,6 +3114,58 @@ GitHub Repository: [YT Music Controller](https://github.com/raphaelMrci/yt-music
 			<real>480</real>
 			<key>ypos</key>
 			<real>55</real>
+		</dict>
+		<key>14582516-1786-4A2A-90C7-B7690C96143C</key>
+		<dict>
+			<key>xpos</key>
+			<real>325</real>
+			<key>ypos</key>
+			<real>1525</real>
+		</dict>
+		<key>150DBD1D-15AB-499D-9397-093FEDAEAA53</key>
+		<dict>
+			<key>xpos</key>
+			<real>495</real>
+			<key>ypos</key>
+			<real>1880</real>
+		</dict>
+		<key>161D5EFC-7CBF-46BC-AEE2-38EF7B581225</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>1</integer>
+			<key>xpos</key>
+			<real>3910</real>
+			<key>ypos</key>
+			<real>805</real>
+		</dict>
+		<key>20CBB180-FC9A-4D22-88BE-8D091E9D0318</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>12</integer>
+			<key>xpos</key>
+			<real>50</real>
+			<key>ypos</key>
+			<real>1850</real>
+		</dict>
+		<key>249401C0-D3DD-4E2C-A7FD-9E1E69631F17</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>12</integer>
+			<key>xpos</key>
+			<real>35</real>
+			<key>ypos</key>
+			<real>820</real>
+		</dict>
+		<key>24DD71BF-812F-4F36-A0BE-7192B56DB39E</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>4</integer>
+			<key>note</key>
+			<string>Play Custom Playlist - shuffled</string>
+			<key>xpos</key>
+			<real>4095</real>
+			<key>ypos</key>
+			<real>990</real>
 		</dict>
 		<key>27A81862-60BB-4386-9063-E9D1C7D8ACDF</key>
 		<dict>
@@ -1485,15 +3181,62 @@ GitHub Repository: [YT Music Controller](https://github.com/raphaelMrci/yt-music
 			<key>ypos</key>
 			<real>25</real>
 		</dict>
-		<key>2F541AE5-FBA0-46F7-9AD4-74F3522E0836</key>
+		<key>2B5FFE42-40BA-41F2-B8E6-BE997444AE8A</key>
 		<dict>
 			<key>xpos</key>
-			<real>2880</real>
+			<real>2135</real>
+			<key>ypos</key>
+			<real>690</real>
+		</dict>
+		<key>2C1E8369-D968-4760-9A3D-BE8AF9B97FF0</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>12</integer>
+			<key>xpos</key>
+			<real>45</real>
+			<key>ypos</key>
+			<real>1525</real>
+		</dict>
+		<key>2E2EBA9B-91CC-4C19-A379-A58F00F08403</key>
+		<dict>
+			<key>xpos</key>
+			<real>2195</real>
+			<key>ypos</key>
+			<real>690</real>
+		</dict>
+		<key>2F541AE5-FBA0-46F7-9AD4-74F3522E0836</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>4</integer>
+			<key>note</key>
+			<string>Previous</string>
+			<key>xpos</key>
+			<real>3080</real>
 			<key>ypos</key>
 			<real>635</real>
 		</dict>
+		<key>32634336-33A2-4A35-B4B6-32321041E21B</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>1</integer>
+			<key>xpos</key>
+			<real>2475</real>
+			<key>ypos</key>
+			<real>500</real>
+		</dict>
+		<key>382A0899-2578-4042-A512-7F34A9132A8C</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>12</integer>
+			<key>xpos</key>
+			<real>45</real>
+			<key>ypos</key>
+			<real>1705</real>
+		</dict>
 		<key>3A9987AF-3151-4702-A476-94B5FE9C0D1A</key>
 		<dict>
+			<key>colorindex</key>
+			<integer>3</integer>
 			<key>xpos</key>
 			<real>1020</real>
 			<key>ypos</key>
@@ -1501,27 +3244,92 @@ GitHub Repository: [YT Music Controller](https://github.com/raphaelMrci/yt-music
 		</dict>
 		<key>3EF549CE-A7DC-4D63-89A7-D19E847EF53C</key>
 		<dict>
+			<key>colorindex</key>
+			<integer>4</integer>
+			<key>note</key>
+			<string>Play/Pause</string>
 			<key>xpos</key>
-			<real>2880</real>
+			<real>3080</real>
 			<key>ypos</key>
 			<real>770</real>
 		</dict>
-		<key>522E79CA-942F-421C-962F-6AD80B3477F4</key>
+		<key>42285FC2-7E13-4D13-8922-52F7C6B2212A</key>
 		<dict>
 			<key>xpos</key>
-			<real>2565</real>
+			<real>3380</real>
+			<key>ypos</key>
+			<real>990</real>
+		</dict>
+		<key>440BC51F-565B-4F39-AC15-91616BD02697</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>xpos</key>
+			<real>190</real>
+			<key>ypos</key>
+			<real>1705</real>
+		</dict>
+		<key>4FA1B145-7D6A-46BF-9441-EC0927D77755</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>xpos</key>
+			<real>185</real>
+			<key>ypos</key>
+			<real>1175</real>
+		</dict>
+		<key>508AF252-977D-42A0-B99F-7AA88EAD9118</key>
+		<dict>
+			<key>xpos</key>
+			<real>330</real>
+			<key>ypos</key>
+			<real>1705</real>
+		</dict>
+		<key>522E79CA-942F-421C-962F-6AD80B3477F4</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>1</integer>
+			<key>xpos</key>
+			<real>2765</real>
 			<key>ypos</key>
 			<real>930</real>
 		</dict>
-		<key>6F01056A-6786-4DC6-B3BE-4BADD632D701</key>
+		<key>5651FBB5-5F66-4C81-81B9-7C019E25C32F</key>
 		<dict>
 			<key>xpos</key>
-			<real>1400</real>
+			<real>490</real>
 			<key>ypos</key>
-			<real>445</real>
+			<real>1555</real>
+		</dict>
+		<key>6815A6B4-0807-43A7-8DB7-3AA8C7C7AC0E</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>1</integer>
+			<key>xpos</key>
+			<real>3320</real>
+			<key>ypos</key>
+			<real>1135</real>
+		</dict>
+		<key>689C2C3F-19BF-49E9-BAA0-B70FB454BB5B</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>xpos</key>
+			<real>175</real>
+			<key>ypos</key>
+			<real>185</real>
+		</dict>
+		<key>6B5F9399-7839-4B62-9D83-6615925A91BB</key>
+		<dict>
+			<key>xpos</key>
+			<real>3055</real>
+			<key>ypos</key>
+			<real>990</real>
 		</dict>
 		<key>6F3933C9-FBC1-41C2-8F8B-CF2DB2C595A0</key>
 		<dict>
+			<key>colorindex</key>
+			<integer>3</integer>
 			<key>note</key>
 			<string>Updater</string>
 			<key>xpos</key>
@@ -1529,8 +3337,26 @@ GitHub Repository: [YT Music Controller](https://github.com/raphaelMrci/yt-music
 			<key>ypos</key>
 			<real>445</real>
 		</dict>
+		<key>6F990C7D-F1DC-46DC-9296-8334D8D68E99</key>
+		<dict>
+			<key>xpos</key>
+			<real>325</real>
+			<key>ypos</key>
+			<real>1380</real>
+		</dict>
+		<key>6FCAF8CD-59C3-4B68-9DC5-86538E43ADED</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>xpos</key>
+			<real>175</real>
+			<key>ypos</key>
+			<real>25</real>
+		</dict>
 		<key>72BC7B62-7C3B-4458-9873-967B787F8047</key>
 		<dict>
+			<key>colorindex</key>
+			<integer>3</integer>
 			<key>xpos</key>
 			<real>930</real>
 			<key>ypos</key>
@@ -1548,7 +3374,39 @@ GitHub Repository: [YT Music Controller](https://github.com/raphaelMrci/yt-music
 			<key>xpos</key>
 			<real>325</real>
 			<key>ypos</key>
-			<real>525</real>
+			<real>495</real>
+		</dict>
+		<key>7E8D939E-3178-4C46-9F23-AEB4819B9870</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>xpos</key>
+			<real>185</real>
+			<key>ypos</key>
+			<real>1030</real>
+		</dict>
+		<key>82A7D6EC-30F8-4C1C-B6A9-F9057275875A</key>
+		<dict>
+			<key>xpos</key>
+			<real>3680</real>
+			<key>ypos</key>
+			<real>980</real>
+		</dict>
+		<key>86DD54F8-A237-41B7-A138-BAE04FD44837</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>12</integer>
+			<key>xpos</key>
+			<real>35</real>
+			<key>ypos</key>
+			<real>685</real>
+		</dict>
+		<key>8855FA3B-197C-4FB2-A78B-73C7FA1EE65D</key>
+		<dict>
+			<key>xpos</key>
+			<real>2975</real>
+			<key>ypos</key>
+			<real>990</real>
 		</dict>
 		<key>8DCDB2D4-4E5D-40C2-8739-86689D0383DF</key>
 		<dict>
@@ -1557,17 +3415,71 @@ GitHub Repository: [YT Music Controller](https://github.com/raphaelMrci/yt-music
 			<key>ypos</key>
 			<real>685</real>
 		</dict>
+		<key>8E50978C-BE95-484A-B0AF-B1323B92253E</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>xpos</key>
+			<real>185</real>
+			<key>ypos</key>
+			<real>685</real>
+		</dict>
 		<key>8F74BED5-B5B7-47EF-8FC7-E1436C138249</key>
 		<dict>
 			<key>xpos</key>
-			<real>2025</real>
+			<real>1985</real>
 			<key>ypos</key>
 			<real>690</real>
+		</dict>
+		<key>90396D0D-022B-4A09-AEE2-DC04AD80F30E</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>xpos</key>
+			<real>185</real>
+			<key>ypos</key>
+			<real>1380</real>
+		</dict>
+		<key>91C4EC59-0A49-4878-B18D-A105DC6E0960</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>xpos</key>
+			<real>185</real>
+			<key>ypos</key>
+			<real>820</real>
+		</dict>
+		<key>93682B77-E352-49AB-98B3-09F4A5DCF617</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>12</integer>
+			<key>xpos</key>
+			<real>30</real>
+			<key>ypos</key>
+			<real>430</real>
+		</dict>
+		<key>95AD198C-9640-4DF5-BAF9-9F28958999B5</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>12</integer>
+			<key>xpos</key>
+			<real>30</real>
+			<key>ypos</key>
+			<real>185</real>
+		</dict>
+		<key>A0FF6CAD-FAF7-4382-BA07-73A8C827BB65</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>6</integer>
+			<key>xpos</key>
+			<real>3145</real>
+			<key>ypos</key>
+			<real>965</real>
 		</dict>
 		<key>A3DC4537-1646-43CB-8427-746FC00E1010</key>
 		<dict>
 			<key>xpos</key>
-			<real>2105</real>
+			<real>2065</real>
 			<key>ypos</key>
 			<real>690</real>
 		</dict>
@@ -1581,35 +3493,30 @@ GitHub Repository: [YT Music Controller](https://github.com/raphaelMrci/yt-music
 		<key>A54890A5-C239-4B51-A708-C42EC3ABE5EE</key>
 		<dict>
 			<key>xpos</key>
-			<real>2205</real>
+			<real>2470</real>
 			<key>ypos</key>
-			<real>680</real>
-		</dict>
-		<key>A7FC8D77-3889-4AA4-A3B1-9388748C77A7</key>
-		<dict>
-			<key>xpos</key>
-			<real>2885</real>
-			<key>ypos</key>
-			<real>925</real>
+			<real>695</real>
 		</dict>
 		<key>ACAE54C0-7ECD-4BE7-954B-1446629318B1</key>
 		<dict>
 			<key>xpos</key>
-			<real>1935</real>
+			<real>1895</real>
 			<key>ypos</key>
 			<real>690</real>
 		</dict>
 		<key>B768CA64-B598-409A-9CC9-F1517A03FA24</key>
 		<dict>
 			<key>xpos</key>
-			<real>1820</real>
+			<real>1815</real>
 			<key>ypos</key>
-			<real>775</real>
+			<real>780</real>
 		</dict>
 		<key>BD2F3104-4C61-4DB7-80CB-48D9B6370FF5</key>
 		<dict>
+			<key>colorindex</key>
+			<integer>6</integer>
 			<key>xpos</key>
-			<real>2565</real>
+			<real>2765</real>
 			<key>ypos</key>
 			<real>590</real>
 		</dict>
@@ -1620,6 +3527,24 @@ GitHub Repository: [YT Music Controller](https://github.com/raphaelMrci/yt-music
 			<key>ypos</key>
 			<real>1030</real>
 		</dict>
+		<key>C066AF5A-F579-41DE-8AED-EEA5E7744FBC</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>12</integer>
+			<key>xpos</key>
+			<real>30</real>
+			<key>ypos</key>
+			<real>25</real>
+		</dict>
+		<key>C2B78D89-096C-45AA-ACEC-84010019B9E9</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>12</integer>
+			<key>xpos</key>
+			<real>40</real>
+			<key>ypos</key>
+			<real>1380</real>
+		</dict>
 		<key>C2EF9A29-2693-4804-B89C-D7815906FD04</key>
 		<dict>
 			<key>xpos</key>
@@ -1627,17 +3552,41 @@ GitHub Repository: [YT Music Controller](https://github.com/raphaelMrci/yt-music
 			<key>ypos</key>
 			<real>460</real>
 		</dict>
+		<key>C525EF91-61B3-4406-9823-5662466364F6</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>xpos</key>
+			<real>185</real>
+			<key>ypos</key>
+			<real>1525</real>
+		</dict>
 		<key>C9CA2829-A2E4-439E-8403-4C4484F2BC55</key>
 		<dict>
+			<key>colorindex</key>
+			<integer>4</integer>
+			<key>note</key>
+			<string>Next</string>
 			<key>xpos</key>
-			<real>2880</real>
+			<real>3080</real>
 			<key>ypos</key>
 			<real>500</real>
 		</dict>
+		<key>CAB45786-F0CE-4989-8906-31F80D129A2D</key>
+		<dict>
+			<key>note</key>
+			<string>Get {var:urlp_X} value</string>
+			<key>xpos</key>
+			<real>3460</real>
+			<key>ypos</key>
+			<real>960</real>
+		</dict>
 		<key>CAE1F8A0-0E39-4E03-B185-10FAE3270EF3</key>
 		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
 			<key>xpos</key>
-			<real>195</real>
+			<real>185</real>
 			<key>ypos</key>
 			<real>430</real>
 		</dict>
@@ -1651,9 +3600,9 @@ GitHub Repository: [YT Music Controller](https://github.com/raphaelMrci/yt-music
 		<key>D03B2776-A89C-4206-8480-CB22709C2EB3</key>
 		<dict>
 			<key>xpos</key>
-			<real>1815</real>
+			<real>1810</real>
 			<key>ypos</key>
-			<real>615</real>
+			<real>600</real>
 		</dict>
 		<key>D283A2BD-8B53-4A46-AEB4-D74D925FBF66</key>
 		<dict>
@@ -1667,7 +3616,21 @@ GitHub Repository: [YT Music Controller](https://github.com/raphaelMrci/yt-music
 			<key>xpos</key>
 			<real>320</real>
 			<key>ypos</key>
+			<real>365</real>
+		</dict>
+		<key>DB23CE6D-4E46-4EB6-8405-0294A888597E</key>
+		<dict>
+			<key>xpos</key>
 			<real>330</real>
+			<key>ypos</key>
+			<real>1850</real>
+		</dict>
+		<key>E1C9C10A-D5BF-409F-89C2-FA2AAD8A751C</key>
+		<dict>
+			<key>xpos</key>
+			<real>495</real>
+			<key>ypos</key>
+			<real>1735</real>
 		</dict>
 		<key>E3183FDF-5EF3-4323-8C6C-2F6C4E4E96F2</key>
 		<dict>
@@ -1675,6 +3638,13 @@ GitHub Repository: [YT Music Controller](https://github.com/raphaelMrci/yt-music
 			<real>325</real>
 			<key>ypos</key>
 			<real>1175</real>
+		</dict>
+		<key>E4DFD31B-77A0-4623-AE8C-66AC863C90DD</key>
+		<dict>
+			<key>xpos</key>
+			<real>3910</real>
+			<key>ypos</key>
+			<real>995</real>
 		</dict>
 		<key>E5168DB1-CF0D-4E73-B54E-A05D2BF5AEBD</key>
 		<dict>
@@ -1685,17 +3655,52 @@ GitHub Repository: [YT Music Controller](https://github.com/raphaelMrci/yt-music
 		</dict>
 		<key>E6691240-DABD-4909-9B7F-3D3702C81CBF</key>
 		<dict>
+			<key>colorindex</key>
+			<integer>4</integer>
+			<key>note</key>
+			<string>Play liked playlist</string>
 			<key>xpos</key>
-			<real>2880</real>
+			<real>3080</real>
 			<key>ypos</key>
 			<real>220</real>
 		</dict>
 		<key>EF9323AA-AE3A-4F06-88EF-E8A0A2803BD9</key>
 		<dict>
+			<key>note</key>
+			<string>Check if Browser defined in config</string>
 			<key>xpos</key>
 			<real>1310</real>
 			<key>ypos</key>
-			<real>620</real>
+			<real>605</real>
+		</dict>
+		<key>F88B85DC-C29B-4EE8-9171-C4F4F4DFD1D2</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>12</integer>
+			<key>xpos</key>
+			<real>40</real>
+			<key>ypos</key>
+			<real>1030</real>
+		</dict>
+		<key>FBBC85D3-95DA-48F4-8424-F3FC924DB657</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>4</integer>
+			<key>note</key>
+			<string>Play Custom Playlist</string>
+			<key>xpos</key>
+			<real>4095</real>
+			<key>ypos</key>
+			<real>815</real>
+		</dict>
+		<key>FC59A4C1-98F2-43A2-83FB-3DA4C589876C</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>xpos</key>
+			<real>190</real>
+			<key>ypos</key>
+			<real>1850</real>
 		</dict>
 		<key>liked</key>
 		<dict>
@@ -1725,7 +3730,7 @@ GitHub Repository: [YT Music Controller](https://github.com/raphaelMrci/yt-music
 				</array>
 			</dict>
 			<key>description</key>
-			<string>The workflow will try to determine automatically your browser using your default settings. You can specify it if needed</string>
+			<string>You can let this config undefined; The workflow will try to determine automatically your browser using your default settings. You can specify it if needed</string>
 			<key>label</key>
 			<string>Browser</string>
 			<key>type</key>
@@ -1752,14 +3757,72 @@ GitHub Repository: [YT Music Controller](https://github.com/raphaelMrci/yt-music
 			<key>variable</key>
 			<string>update</string>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>default</key>
+				<string></string>
+				<key>placeholder</key>
+				<string></string>
+				<key>required</key>
+				<false/>
+				<key>trim</key>
+				<true/>
+			</dict>
+			<key>description</key>
+			<string>You can specify the URL of a playlist you like, to access it through the `ym p1` keyword. You can also start one in shuffling mode by writing `ym p1r`.</string>
+			<key>label</key>
+			<string>Custom Playlist N°1 URL</string>
+			<key>type</key>
+			<string>textfield</string>
+			<key>variable</key>
+			<string>urlp_1</string>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>default</key>
+				<string></string>
+				<key>placeholder</key>
+				<string></string>
+				<key>required</key>
+				<false/>
+				<key>trim</key>
+				<true/>
+			</dict>
+			<key>description</key>
+			<string>You can add multiple custom playlist. To start the other one, you need to use the command `ym p2` or ym p2r`. You can understand that the other ones follow the logic `ym pX` or `ym pXr`</string>
+			<key>label</key>
+			<string>Custom Playlist N°2 URL</string>
+			<key>type</key>
+			<string>textfield</string>
+			<key>variable</key>
+			<string>urlp_2</string>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>default</key>
+				<string></string>
+				<key>placeholder</key>
+				<string></string>
+				<key>required</key>
+				<false/>
+				<key>trim</key>
+				<true/>
+			</dict>
+			<key>description</key>
+			<string></string>
+			<key>label</key>
+			<string>Custom Playlist N°3 URL</string>
+			<key>type</key>
+			<string>textfield</string>
+			<key>variable</key>
+			<string>urlp_3</string>
+		</dict>
 	</array>
-	<key>variables</key>
-	<dict>
-		<key>current_version</key>
-		<string>0.1.1</string>
-	</dict>
 	<key>version</key>
-	<string>0.1.1</string>
+	<string>0.2.0</string>
 	<key>webaddress</key>
 	<string>https://github.com/raphaelMrci/yt-music-controller</string>
 </dict>

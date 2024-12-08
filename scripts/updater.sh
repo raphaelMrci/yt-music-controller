@@ -1,20 +1,28 @@
 #!/bin/bash
 
 # Environment Variables
-CURRENT_VERSION=$(cat version.txt)  # Read the local version from version.txt
-VERSION_URL="https://github.com/raphaelMrci/yt-music-controller/version.txt"  # URL to version.txt
+INFO_PLIST="./info.plist"  # Path to the local info.plist file
+REMOTE_INFO_PLIST="https://raw.githubusercontent.com/raphaelMrci/yt-music-controller/refs/heads/main/info.plist"  # URL to the remote info.plist
 BASE_DOWNLOAD_URL="https://github.com/raphaelMrci/yt-music-controller/releases/download"  # Base URL for releases
 
-# Validate CURRENT_VERSION
+# Extract the current version from the local info.plist
+CURRENT_VERSION=$(plutil -extract version raw "$INFO_PLIST" 2>/dev/null)
 if [ -z "$CURRENT_VERSION" ]; then
-    osascript -e "display dialog \"Error: Current version not provided.\" buttons {\"OK\"} default button \"OK\""
+    osascript -e "display dialog \"Error: Failed to extract the current version from the local info.plist.\" buttons {\"OK\"} default button \"OK\""
     exit 1
 fi
 
-# Fetch the latest version
-LATEST_VERSION=$(curl -s --fail "$VERSION_URL")
-if [ $? -ne 0 ] || [ -z "$LATEST_VERSION" ]; then
-    osascript -e "display dialog \"Error: Failed to fetch the latest version.\" buttons {\"OK\"} default button \"OK\""
+# Fetch the remote info.plist
+REMOTE_INFO=$(curl -s --fail "$REMOTE_INFO_PLIST")
+if [ $? -ne 0 ] || [ -z "$REMOTE_INFO" ]; then
+    osascript -e "display dialog \"Error: Failed to fetch the remote info.plist.\" buttons {\"OK\"} default button \"OK\""
+    exit 1
+fi
+
+# Extract the latest version from the remote info.plist
+LATEST_VERSION=$(echo "$REMOTE_INFO" | plutil -extract version raw -o - -)
+if [ -z "$LATEST_VERSION" ]; then
+    osascript -e "display dialog \"Error: Failed to extract the latest version from the remote info.plist.\" buttons {\"OK\"} default button \"OK\""
     exit 1
 fi
 
@@ -34,6 +42,4 @@ if [ "$LATEST_VERSION" != "$CURRENT_VERSION" ]; then
             exit 1
         fi
     fi
-else
-    osascript -e "display dialog \"You are already using the latest version ($CURRENT_VERSION).\" buttons {\"OK\"} default button \"OK\""
 fi
